@@ -7,3 +7,5 @@ Creating a new branch is quick.
 xiugai xiugai 
 xiugai 
 xiugai
+
+xiugai pull  pull
